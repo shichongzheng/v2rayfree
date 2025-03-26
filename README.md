@@ -3,5 +3,5 @@
 
 订阅地址:
 ```
-https://raw.githubusercontent.com/somemoo/v2rayfree/main/v2rayfree
+https://raw.githubusercontent.com/shichongzheng/v2rayfree/main/v2rayfree
 ```
